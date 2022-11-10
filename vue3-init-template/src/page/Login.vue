@@ -3,6 +3,6 @@
 </script>
 <template>
   <div>
-    login
+    {{$t("Login.username")}}
   </div>
 </template>
